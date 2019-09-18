@@ -71,7 +71,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"w-100\">\n  <h3 class=\"mb-5\">Education</h3>\n\n  <div\n    class=\"resume-item d-flex flex-column flex-md-row justify-content-between mb-5\"\n  >\n    <div class=\"resume-content\">\n      <h4 class=\"mb-0\">Hanzehogeschool Groningen</h4>\n      <div class=\"subheading mb-3\">Bachelor of Science</div>\n      <div>Communication & Multimedia Design</div>\n      <p><span class=\"font-weight-bold\">Scriptie:</span> ’Het faciliteren van besluitvorming door een mobiele applicatie</p>\n    </div>\n    <div class=\"resume-date text-md-right\">\n      <span class=\"text-danger\">2011 - 2017</span>\n    </div>\n  </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"w-100\">\n  <h3 class=\"mb-5\">Opleiding</h3>\n\n  <div\n    class=\"resume-item d-flex flex-column flex-md-row justify-content-between mb-5\"\n  >\n    <div class=\"resume-content\">\n      <h4 class=\"mb-0\">Hanzehogeschool Groningen</h4>\n      <div class=\"subheading mb-3\">Bachelor of Science</div>\n      <div>Communication & Multimedia Design</div>\n      <p><span class=\"font-weight-bold\">Scriptie:</span> ’Het faciliteren van besluitvorming door een mobiele applicatie</p>\n    </div>\n    <div class=\"resume-date text-md-right\">\n      <span class=\"text-danger\">2011 - 2017</span>\n    </div>\n  </div>\n</div>\n");
 
 /***/ }),
 
@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"w-100\">\n  <h3 class=\"mb-5\">Skills</h3>\n\n  <div class=\"resume-item justify-content-between mb-5\">\n    <div class=\"row\">\n      <h2 class=\"mb-0 mx-2\">\n        <fa-icon [icon]=\"faAngular\"></fa-icon>\n      </h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faHtml5\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faCss3Alt\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faSass\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faJs\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faBootstrap\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faNodeJs\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faDocker\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faGithub\"></fa-icon></h2>\n    </div>\n  </div>\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"w-100\">\n  <h3 class=\"mb-5\">Vaardigheden</h3>\n\n  <div class=\"resume-item justify-content-between mb-5\">\n    <div class=\"row\">\n      <h2 class=\"mb-0 mx-2\">\n        <fa-icon [icon]=\"faAngular\"></fa-icon>\n      </h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faHtml5\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faCss3Alt\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faSass\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faJs\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faBootstrap\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faNodeJs\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faDocker\"></fa-icon></h2>\n      <h2 class=\"mb-0 mx-2\"><fa-icon [icon]=\"faGithub\"></fa-icon></h2>\n    </div>\n  </div>\n</div>\n");
 
 /***/ }),
 
